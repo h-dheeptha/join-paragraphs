@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+#left{
+    text-align: left;
+}
+#right{
+    text-align: right;
+}
+.span{
+    display: inline-block;
+    padding:15%;
+}
+.btn{
+    text-align: center;
+}
